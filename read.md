@@ -20,7 +20,7 @@ https://pan.baidu.com/s/1mjI2Gxq
 
 验证码示例：
 
-![yzm]()
+![yzm](https://github.com/shifop/yzm/blob/master/data/yzm/0a0y.jpg)
 
 训练数据：54000条
 
