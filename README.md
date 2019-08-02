@@ -20,7 +20,7 @@ https://pan.baidu.com/s/1mjI2Gxq
 
 验证码示例：
 
-![yzm]()
+![yzm](https://github.com/shifop/yzm/blob/master/data/yzm/0a0y.jpg)
 
 训练数据：54000条
 
@@ -28,7 +28,7 @@ https://pan.baidu.com/s/1mjI2Gxq
 
 训练集准确率：93.1%
 
-测试机准确率：87.7%
+测试集准确率：87.7%
 
 继续训练的话，测试集准确率应该能到90%以上
 
